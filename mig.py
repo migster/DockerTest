@@ -1,1 +1,1 @@
-print("Hello world from a Docker container. With changes. ")
+print("Hello world from a Docker container!")
